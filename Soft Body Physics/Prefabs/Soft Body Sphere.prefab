@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 566435081059060633}
   - component: {fileID: 566435081059060632}
   - component: {fileID: 566435081059060635}
-  - component: {fileID: 3795206912158007397}
+  - component: {fileID: 8183611854537243034}
   - component: {fileID: 3795206912908171710}
   m_Layer: 3
   m_Name: Soft Body Sphere
@@ -100,7 +100,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 566435081059060612}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &3795206912158007397
+--- !u!114 &8183611854537243034
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -109,7 +109,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 566435081059060612}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c985612fb9cbc4ae5af2e141df2db30e, type: 3}
+  m_Script: {fileID: 11500000, guid: 6331c7f3886de4f5da21168dab25693b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   spring: 100
